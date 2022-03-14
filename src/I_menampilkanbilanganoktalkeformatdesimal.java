@@ -1,4 +1,4 @@
-public class H_menampilkanbilanganoktalkeformatdesimal {
+public class I_menampilkanbilanganoktalkeformatdesimal {
     public static void main(String[] args) {
         int six=06;
         int seven=07;

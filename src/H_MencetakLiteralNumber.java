@@ -1,4 +1,4 @@
-public class G_MencetakLiteralNumber {
+public class H_MencetakLiteralNumber {
     public static void main(String[] args) {
         int distance=25;
         final long MM_TO_KM=1000000L;

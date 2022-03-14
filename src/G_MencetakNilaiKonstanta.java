@@ -1,4 +1,4 @@
-public class F_MencetakNilaiKonstanta {
+public class G_MencetakNilaiKonstanta {
     public static void main(String[] args) {
 
           final double PHI = 3.14;
