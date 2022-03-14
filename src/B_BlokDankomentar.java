@@ -1,5 +1,6 @@
-public class B_BlokDankomentar {
-    public static void main(String[] args) {
-        System.out.println("Pemrograman Berorientasi Objek dengan Java");
+/**
+ * Contoh penggunaan whitespace di Java
+ */
+public class B_BlokDankomentar { public static void main(String[] args) {System.out.println("Pemrograman Berorientasi Objek dengan Java");
     }
 }
